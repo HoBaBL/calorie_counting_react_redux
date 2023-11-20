@@ -1,6 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
+  "homepage": "https://HoBaBL.github.io/calorie_counting_react_redux",
   "private": true,
   "dependencies": {
     "@chakra-ui/react": "^2.8.1",

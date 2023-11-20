@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/calorie_counting_react_redux/static/css/main.6d45621e.css",
+    "main.js": "/calorie_counting_react_redux/static/js/main.30399fa0.js",
+    "index.html": "/calorie_counting_react_redux/index.html",
+    "main.6d45621e.css.map": "/calorie_counting_react_redux/static/css/main.6d45621e.css.map",
+    "main.30399fa0.js.map": "/calorie_counting_react_redux/static/js/main.30399fa0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d45621e.css",
+    "static/js/main.30399fa0.js"
+  ]
+}
