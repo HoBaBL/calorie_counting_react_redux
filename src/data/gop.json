@@ -1,0 +1,119 @@
+[
+    {
+        "id": 46,
+        "title": "Стейк из говядины",
+        "text": "1 порция (104 г)",
+        "kcal": 278,
+        "carbohydrates": 0,
+        "proteins": 27.5,
+        "fats": 17.8
+    },
+    {
+        "id": 47,
+        "title": "Кофе",
+        "text": "1 чашка (237 мл)",
+        "kcal": 2,
+        "carbohydrates": 0,
+        "proteins":0.3,
+        "fats": 0.1
+    },
+    {
+        "id": 48,
+        "title": "Спрайт",
+        "text": "Sprite, 1 стакан (250 мл)",
+        "kcal": 100,
+        "carbohydrates": 25.4,
+        "proteins": 0.1,
+        "fats": 0.1
+    },
+    {
+        "id": 49,
+        "title": "Кола",
+        "text": "Coca Cola, 1 стакан (250 мл)",
+        "kcal": 105,
+        "carbohydrates": 16.5,
+        "proteins": 0,
+        "fats": 0
+    },
+    {
+        "id": 50,
+        "title": "Фанта",
+        "text": "Fanta, 1 стакан (250 мл)",
+        "kcal": 118,
+        "carbohydrates": 29,
+        "proteins": 0,
+        "fats": 0
+    },
+    {
+        "id": 51,
+        "title": "Квас",
+        "text": "1 стакан (250 мл)",
+        "kcal": 75,
+        "carbohydrates": 15,
+        "proteins": 0,
+        "fats": 0
+    },
+    {
+        "id": 52,
+        "title": "Чипсы",
+        "text": "Lays, 100 г",
+        "kcal": 510,
+        "carbohydrates": 53,
+        "proteins": 6,
+        "fats": 30
+    },
+    {
+        "id": 53,
+        "title": "Картофельное пюре",
+        "text": "1 чашка (242 г)",
+        "kcal": 215,
+        "carbohydrates": 35.5,
+        "proteins": 4,
+        "fats": 6.8
+    },
+    {
+        "id": 54,
+        "title": "Картофель, приготовленный",
+        "text": "(100 г)",
+        "kcal": 87,
+        "carbohydrates": 20,
+        "proteins": 1.9,
+        "fats": 0.1
+    },
+    {
+        "id": 55,
+        "title": "Борщ",
+        "text": "(100 г)",
+        "kcal": 95,
+        "carbohydrates": 5,
+        "proteins": 5,
+        "fats": 4
+    },
+    {
+        "id": 56,
+        "title": "Куринный суп с лапшой",
+        "text": "(100 г)",
+        "kcal": 52,
+        "carbohydrates": 6,
+        "proteins": 2.6,
+        "fats": 1.9
+    },
+    {
+        "id": 57,
+        "title": "Гороховый суп",
+        "text": "(100 г)",
+        "kcal": 62,
+        "carbohydrates": 10,
+        "proteins": 3.2,
+        "fats": 1.1
+    },
+    {
+        "id": 58,
+        "title": "Шампиньоны",
+        "text": "Грибы, (100 г)",
+        "kcal": 50,
+        "carbohydrates": 2.8,
+        "proteins": 3.6,
+        "fats": 3.1
+    }
+]

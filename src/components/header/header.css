@@ -1,0 +1,44 @@
+.Header h1 {
+    color: rgb(144, 235, 151);
+    margin: 0;
+
+}
+
+.Header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* padding: 0 10px; */
+}
+
+.headerAccountFlex {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: linear-gradient(to right, rgb(161, 241, 173), rgb(81, 206, 162));
+    border: none;
+    border-radius: 10px;
+    padding: 5px 20px;
+    cursor: pointer;
+}
+
+.headerAccountFlex p {
+    margin: 0;
+    font-size: 18px;
+}
+
+@media (max-width: 500px) {
+    .headerAccountFlex p {
+        display: none;
+    }
+
+    .headerAccountFlex {
+        padding: 10px;
+        border-radius: 50%;
+    }
+
+    .Header h1 {
+        font-size: 20px;
+    }
+}
+
